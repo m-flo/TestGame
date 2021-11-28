@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\Definitions.MyProject.h
+C:\Users\micha\OneDrive\Documents\Unreal Projects\MyProject\Source\MyProject\Game\MyProjectPlayer.h
+C:\Users\micha\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Inc\MyProject\MyProjectPlayer.generated.h
+E:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+E:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\SpringArmComponent.generated.h
+E:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+E:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\CameraComponent.generated.h

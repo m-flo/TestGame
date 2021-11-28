@@ -1,0 +1,2 @@
+C:\Users\micha\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\Definitions.MyProject.h
+C:\Users\micha\OneDrive\Documents\Unreal Projects\MyProject\Source\MyProject\MyProject.h
