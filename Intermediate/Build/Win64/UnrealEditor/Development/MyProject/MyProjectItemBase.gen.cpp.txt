@@ -1,0 +1,5 @@
+C:\Users\micha\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\Definitions.MyProject.h
+E:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\micha\OneDrive\Documents\Unreal Projects\MyProject\Source\MyProject/Items/MyProjectItemBase.h
+C:\Users\micha\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Inc\MyProject\MyProjectItemBase.generated.h
